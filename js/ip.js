@@ -25,7 +25,7 @@
             };
 
          
-            const webhookUrl = 'https://discord.com/api/webhooks/1180363243580035072/TscrmiTPDwxj-KNH1wqOAG2ion6TIsqOLhkIvO9EQmTYCpgSvMlRUEorGHZjRiMKo0kr';
+            const webhookUrl = '';
 
           
             fetch(webhookUrl, {

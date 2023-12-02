@@ -98,3 +98,23 @@ fetch(("https://discord-web-api.glitch.me/discord/user/931281465554112662"), {
   document.getElementById("duart");
   document.getElementById("username");
 });
+
+'use strict';
+fetch(("https://discord-web-api.glitch.me/discord/user/852942955542609981"), {
+  method : "GET",
+  mode : "cors"
+}).then(function(responseJson) {
+  if (responseJson.ok) {
+    return responseJson.json();
+  }
+  return Promise.reject(responseJson);
+}).then(function(fieldDescribe) {
+  console.log(fieldDescribe.url);
+  console.log(fieldDescribe.username);
+  document.getElementById("yuri").src = fieldDescribe.url;
+  document.getElementById("username").src = fieldDescribe.username;
+}).catch(function($ownerNode) {
+  console.warn("Something went wrong.", $ownerNode);
+  document.getElementById("yuri");
+  document.getElementById("username");
+});
