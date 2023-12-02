@@ -1,6 +1,6 @@
 
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/273941820281585665"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/852735469095747604"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -76,5 +76,25 @@ fetch(("https://discord-web-api.glitch.me/discord/user/1040076220727042110"), {
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
   document.getElementById("aizen");
+  document.getElementById("username");
+});
+
+'use strict';
+fetch(("https://discord-web-api.glitch.me/discord/user/931281465554112662"), {
+  method : "GET",
+  mode : "cors"
+}).then(function(responseJson) {
+  if (responseJson.ok) {
+    return responseJson.json();
+  }
+  return Promise.reject(responseJson);
+}).then(function(fieldDescribe) {
+  console.log(fieldDescribe.url);
+  console.log(fieldDescribe.username);
+  document.getElementById("duart").src = fieldDescribe.url;
+  document.getElementById("username").src = fieldDescribe.username;
+}).catch(function($ownerNode) {
+  console.warn("Something went wrong.", $ownerNode);
+  document.getElementById("duart");
   document.getElementById("username");
 });

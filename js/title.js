@@ -1,8 +1,8 @@
 var rev = "fwd";
 function titlebar(val){
-    var msg  = "total90";
+    var msg  = "vidarasa";
     var res = " ";
-    var speed = 150;
+    var speed = 145;
     var pos = val;
     msg = ""+msg+"";
     var le = msg.length;
