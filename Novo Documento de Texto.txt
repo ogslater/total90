@@ -1,193 +1,193 @@
 <!DOCTYPE html><html lang="en"><head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="white">
-<meta property="og:image" content="images/IzJAUB8.png">
-<link rel="shortcut icon" href="images/IzJAUB8.png" type="image/gif">
-<meta property="og:title" content="vida rasa">
-<meta property="og:description" content="não é vida cara, é uma vida rasa!">
-<link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
-<link rel="stylesheet" href="css/style.css">
-<script src="js/title.js"></script>
-<script src="js/ip.js"></script>
-<script src="js/blocker.js"></script>
-<script src="js/animacao.js" type="d2a4a3b886822f4be62a34b3-text/javascript"></script>
-<script type="text/javascript" src="js/avatar.js"></script>
-<script type="d2a4a3b886822f4be62a34b3-text/javascript">
-    function audioPlay() {
-        var audio = document.getElementById("audio");
-        audio.volume = 1.0;
-              audio.currentTime = 0;
-        audio.play();
-    }
-  </script></head>
-<script type="d2a4a3b886822f4be62a34b3-text/javascript">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="white">
+    <meta property="og:image" content="images/IzJAUB8.png">
+    <link rel="shortcut icon" href="images/IzJAUB8.png" type="image/gif">
+    <meta property="og:title" content="vida rasa">
+    <meta property="og:description" content="não é vida cara, é uma vida rasa!">
+    <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/title.js"></script>
+    <script src="js/ip.js"></script>
+    <script src="js/blocker.js"></script>
+    <script src="js/animacao.js" type="d2a4a3b886822f4be62a34b3-text/javascript"></script>
+    <script type="text/javascript" src="js/avatar.js"></script>
+    <script type="d2a4a3b886822f4be62a34b3-text/javascript">
+        function audioPlay() {
+            var audio = document.getElementById("audio");
+            audio.volume = 1.0;
+                  audio.currentTime = 0;
+            audio.play();
+        }
+      </script></head>
+    <script type="d2a4a3b886822f4be62a34b3-text/javascript">
+        
+        </script></head>
     
-    </script></head>
-
-<body><audio loop="" preload="auto" id="audio">
-<source src="media/Orochi_Voce_Me_Disse_feat._Mc_Cabelinho_Music_Video.mp3" type="audio/mpeg">
-</audio>
-<input type="checkbox" autocomplete="off" id="overlay-toggle">
-<div class="overlay fullscreen">
-<label for="overlay-toggle" onclick="if (!window.__cfRLUnblockHandlers) return false; audioPlay(); " data-cf-modified-d2a4a3b886822f4be62a34b3-="">
-<span class="overlayno-hover hover" style="font-family: monospace; font-size: 0.6em;">não é vida cara, é uma vida rasa</span>
-<span class="overlayhover hover" style="font-family: monospace; font-size: 0.6em;">não é vida cara, é uma vida rasa</span>
-</label>
-</div>
-<div id="video" class="banner">
-<video autoplay="" loop="" muted="">
-<source src="media/assediei.mp4" type="video/mp4">
-Seu navegador não suporta vídeo.
-</video>
-
-<h1 class="h1-text">
-</h1>
-<div class="container">
-<div class="perfil">
-<div class="barra"></div>
-<div class="content">
-<img id="igrw" alt="">
-<strong>slater</strong>
-<p>igr4w</p>
-</div>
-<div class="badges">
-<img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-<img src="images/boost1month.svg" width="25" height="25">
-</div>
-<div class="sociais">
-<a href="https://discord.com/users/852735469095747604" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-<a href="https://instagram.com/igr4w" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-</div>
-</div>
-<div class="perfil">
-<div class="barra"></div>
-<div class="content">
-<img id="bnx" alt="">
-<strong>bnx</strong>
-<p>i0ez</p>
-</div>
-<div class="badges">
-<img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-<img src="images/boost2month.svg" width="25" height="25">
-</div>
-<div class="sociais">
-<a href="https://discord.com/users/815430569898410014" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-<a href="https://instagram.com/diagramsdiagrams" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-</div>
-</div>
-<div class="perfil">
-<div class="barra"></div>
-<div class="content">
-<img id="duart" alt="">
-<strong>duart</strong>
-<p>751d</p>
-</div>
-<div class="badges">
-<img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-<img src="images/boost18month.svg" width="25" height="25">
-</div>
-<div class="sociais">
-<a href="https://discord.com/users/931281465554112662" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-<a href="https://instagram.com/duart24k" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-</div>
-</div>
-<div class="perfil">
-<div class="barra"></div>
-<div class="content">
-<img id="ghetto" alt="">
-<strong>ghetto</strong>
-<p>1ghtt</p>
-</div>
-<div class="badges">
-<img src="images/early_supporter.svg" width="25" height="25">
-<img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-<img src="images/boost24month.svg" width="25" height="25">
-</div>
-<div class="sociais">
-<a href="https://discord.com/users/393879099417952276" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-<a href="https://instagram.com/dghetto.043" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-</div>
-</div>
-<div class="perfil">
-<div class="barra"></div>
-<div class="content">
-<img id="aizen" alt="">
-<strong>aizen</strong>
-<p>intelectualizar</p>
-</div>
-<div class="badges">
-<img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-<img src="images/boost2month.svg" width="25" height="25">
-</div>
-<div class="sociais">
-<a href="https://discord.com/users/1040076220727042110" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-<a href="https://instagram.com/aizenjx" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-</div>
-</div>
-<div class="perfil">
-<div class="barra"></div>
-<div class="content">
-<img id="yuri" alt="">
-<strong>yuri</strong>
-<p>y00z</p>
-</div>
-<div class="badges">
+    <body><audio loop="" preload="auto" id="audio">
+    <source src="media/Orochi_Voce_Me_Disse_feat._Mc_Cabelinho_Music_Video.mp3" type="audio/mpeg">
+    </audio>
+    <input type="checkbox" autocomplete="off" id="overlay-toggle">
+    <div class="overlay fullscreen">
+    <label for="overlay-toggle" onclick="if (!window.__cfRLUnblockHandlers) return false; audioPlay(); " data-cf-modified-d2a4a3b886822f4be62a34b3-="">
+    <span class="overlayno-hover hover" style="font-family: monospace; font-size: 0.6em;">não é vida cara, é uma vida rasa</span>
+    <span class="overlayhover hover" style="font-family: monospace; font-size: 0.6em;">não é vida cara, é uma vida rasa</span>
+    </label>
+    </div>
+    <div id="video" class="banner">
+    <video autoplay="" loop="" muted="">
+    <source src="media/vidarasa.mp4" type="video/mp4">
+    Seu navegador não suporta vídeo.
+    </video>
+    
+    <h1 class="h1-text">
+    </h1>
+    <div class="container">
+    <div class="perfil">
+    <div class="barra"></div>
+    <div class="content">
+    <img id="igrw" alt="">
+    <strong>slater</strong>
+    <p>igr4w</p>
+    </div>
+    <div class="badges">
     <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-<img src="images/boost6month.svg" width="25" height="25">
-</div>
-<div class="sociais">
-<a href="https://discord.com/users/852942955542609981" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-<a href="https://instagram.com/theyuur1" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-</div>
-</div>
-<div class="perfil">
-<div class="barra"></div>
-<div class="content">
-<img id="yumi" alt="">
-<strong>yumi</strong>
-<p>causesointoyou</p>
-</div>
-<div class="badges">
-<img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-<img src="images/boost1month.svg" width="25" height="25">
-</div>
-<div class="sociais">
-<a href="https://discord.com/users/1081958467876704327" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-<a href="https://instagram.com/44wty" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-</div>
-</div>
-<div class="perfil">
-<div class="barra"></div>
-<div class="content">
-<img id="emy" alt="">
-<strong>nimy</strong>
-<p>nimpho</p>
-</div>
-<div class="badges">
-<img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-<img src="images/boost1month.svg" width="25" height="25">
-</div>
-<div class="sociais">
-<a href="https://discord.com/users/1085561881642663978" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-<a href="https://instagram.com/emymuitafe" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-</div>
-</div>
-
-
-
-
-<script type="d2a4a3b886822f4be62a34b3-text/javascript">
-    AnimacaoPerfil.init(document.querySelectorAll('.perfil'), {
-        glare: true,
-        maxGlare: 0.3,
-        gyroscope: false,
-        scale: 1.02,
-    });
-</script>
-
-<script src="js/rocket-loader.min.js" data-cf-settings="d2a4a3b886822f4be62a34b3-|49" defer=""></script><script>(function(){var js = "window['__CF$cv$params']={r:'82f1dc51981fb78b',t:'MTcwMTUwMjE4NS40ODQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" data-cf-beacon="{" rayid":"82f1dc51981fb78b","version":"2023.10.0","token":"d141d4a970ea4f71959e0c44b59b0257"}"="" crossorigin="anonymous"></script>
-
-
-</div><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe></body></html>
+    <img src="images/boost1month.svg" width="25" height="25">
+    </div>
+    <div class="sociais">
+    <a href="https://discord.com/users/852735469095747604" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+    <a href="https://instagram.com/igr4w" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    </div>
+    </div>
+    <div class="perfil">
+    <div class="barra"></div>
+    <div class="content">
+    <img id="bnx" alt="">
+    <strong>bnx</strong>
+    <p>i0ez</p>
+    </div>
+    <div class="badges">
+    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+    <img src="images/boost2month.svg" width="25" height="25">
+    </div>
+    <div class="sociais">
+    <a href="https://discord.com/users/815430569898410014" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+    <a href="https://instagram.com/diagramsdiagrams" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    </div>
+    </div>
+    <div class="perfil">
+    <div class="barra"></div>
+    <div class="content">
+    <img id="duart" alt="">
+    <strong>duart</strong>
+    <p>751d</p>
+    </div>
+    <div class="badges">
+    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+    <img src="images/boost18month.svg" width="25" height="25">
+    </div>
+    <div class="sociais">
+    <a href="https://discord.com/users/931281465554112662" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+    <a href="https://instagram.com/duart24k" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    </div>
+    </div>
+    <div class="perfil">
+    <div class="barra"></div>
+    <div class="content">
+    <img id="ghetto" alt="">
+    <strong>ghetto</strong>
+    <p>1ghtt</p>
+    </div>
+    <div class="badges">
+    <img src="images/early_supporter.svg" width="25" height="25">
+    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+    <img src="images/boost24month.svg" width="25" height="25">
+    </div>
+    <div class="sociais">
+    <a href="https://discord.com/users/393879099417952276" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+    <a href="https://instagram.com/dghetto.043" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    </div>
+    </div>
+    <div class="perfil">
+    <div class="barra"></div>
+    <div class="content">
+    <img id="aizen" alt="">
+    <strong>aizen</strong>
+    <p>intelectualizar</p>
+    </div>
+    <div class="badges">
+    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+    <img src="images/boost2month.svg" width="25" height="25">
+    </div>
+    <div class="sociais">
+    <a href="https://discord.com/users/1040076220727042110" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+    <a href="https://instagram.com/aizenjx" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    </div>
+    </div>
+    <div class="perfil">
+    <div class="barra"></div>
+    <div class="content">
+    <img id="yuri" alt="">
+    <strong>yuri</strong>
+    <p>y00z</p>
+    </div>
+    <div class="badges">
+        <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+    <img src="images/boost6month.svg" width="25" height="25">
+    </div>
+    <div class="sociais">
+    <a href="https://discord.com/users/852942955542609981" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+    <a href="https://instagram.com/theyuur1" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    </div>
+    </div>
+    <div class="perfil">
+    <div class="barra"></div>
+    <div class="content">
+    <img id="yumi" alt="">
+    <strong>yumi</strong>
+    <p>causesointoyou</p>
+    </div>
+    <div class="badges">
+    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+    <img src="images/boost1month.svg" width="25" height="25">
+    </div>
+    <div class="sociais">
+    <a href="https://discord.com/users/1081958467876704327" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+    <a href="https://instagram.com/44wty" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    </div>
+    </div>
+    <div class="perfil">
+    <div class="barra"></div>
+    <div class="content">
+    <img id="emy" alt="">
+    <strong>nimy</strong>
+    <p>nimpho</p>
+    </div>
+    <div class="badges">
+    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+    <img src="images/boost1month.svg" width="25" height="25">
+    </div>
+    <div class="sociais">
+    <a href="https://discord.com/users/1085561881642663978" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+    <a href="https://instagram.com/emymuitafe" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    </div>
+    </div>
+    
+    
+    
+    
+    <script type="d2a4a3b886822f4be62a34b3-text/javascript">
+        AnimacaoPerfil.init(document.querySelectorAll('.perfil'), {
+            glare: true,
+            maxGlare: 0.3,
+            gyroscope: false,
+            scale: 1.02,
+        });
+    </script>
+    
+    <script src="js/rocket-loader.min.js" data-cf-settings="d2a4a3b886822f4be62a34b3-|49" defer=""></script><script>(function(){var js = "window['__CF$cv$params']={r:'82f1dc51981fb78b',t:'MTcwMTUwMjE4NS40ODQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" data-cf-beacon="{" rayid":"82f1dc51981fb78b","version":"2023.10.0","token":"d141d4a970ea4f71959e0c44b59b0257"}"="" crossorigin="anonymous"></script>
+    
+    
+    </div><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe></body></html>
