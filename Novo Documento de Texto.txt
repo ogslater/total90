@@ -143,21 +143,38 @@
     </div>
     </div>
     <div class="perfil">
-    <div class="barra"></div>
-    <div class="content">
-    <img id="yumi" alt="">
-    <strong>yumi</strong>
-    <p>causesointoyou</p>
-    </div>
-    <div class="badges">
-    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-    <img src="images/boost1month.svg" width="25" height="25">
-    </div>
-    <div class="sociais">
-    <a href="https://discord.com/users/1081958467876704327" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-    <a href="https://instagram.com/44wty" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-    </div>
-    </div>
+        <div class="barra"></div>
+        <div class="content">
+        <img id="beli" alt="">
+        <strong>beli</strong>
+        <p>nilovedyouuntilyouliedtome</p>
+        </div>
+        <div class="badges">
+        <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+        <img src="images/boost1month.svg" width="25" height="25">
+        </div>
+        <div class="sociais">
+        <a href="https://discord.com/users/1083594771576139796" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+        <a href="https://instagram.com/i14us" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+        </div>
+        </div>
+    <div class="perfil">
+        <div class="barra"></div>
+        <div class="content">
+        <img id="yumi" alt="">
+        <strong>yumi</strong>
+        <p>causesointoyou</p>
+        </div>
+        <div class="badges">
+        <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+        <img src="images/boost1month.svg" width="25" height="25">
+        </div>
+        <div class="sociais">
+        <a href="https://discord.com/users/1081958467876704327" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+        <a href="https://instagram.com/44wty" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+        </div>
+        </div>
+
     <div class="perfil">
     <div class="barra"></div>
     <div class="content">
@@ -175,6 +192,22 @@
     </div>
     </div>
     
+    <div class="perfil">
+        <div class="barra"></div>
+        <div class="content">
+        <img id="sther" alt="">
+        <strong>sther</strong>
+        <p>suwk</p>
+        </div>
+        <div class="badges">
+        <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
+        <img src="images/boost2month.svg" width="25" height="25">
+        </div>
+        <div class="sociais">
+        <a href="https://discord.com/users/784216046629814332" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+        <a href="https://instagram.com/zsthwr" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+        </div>
+        </div>
     
     
     
