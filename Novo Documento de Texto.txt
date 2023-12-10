@@ -74,14 +74,14 @@
     </div>
     <div class="sociais">
     <a href="https://discord.com/users/815430569898410014" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-    <a href="https://instagram.com/diagramsdiagrams" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    <a href="https://instagram.com/santosateoinferno" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
     </div>
     </div>
     <div class="perfil">
     <div class="barra"></div>
     <div class="content">
     <img id="duart" alt="">
-    <strong>duart</strong>
+    <strong>odeiovc</strong>
     <p>751d</p>
     </div>
     <div class="badges">
@@ -146,8 +146,8 @@
         <div class="barra"></div>
         <div class="content">
         <img id="beli" alt="">
-        <strong>beli</strong>
-        <p>nilovedyouuntilyouliedtome</p>
+        <strong>isinha</strong>
+        <p>ihavedaddyissuess</p>
         </div>
         <div class="badges">
         <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
@@ -155,7 +155,7 @@
         </div>
         <div class="sociais">
         <a href="https://discord.com/users/1083594771576139796" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-        <a href="https://instagram.com/i14us" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+        <a href="https://instagram.com/isinhacoelhinhosfofoss" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
         </div>
         </div>
     <div class="perfil">
