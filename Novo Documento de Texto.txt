@@ -65,7 +65,7 @@
     <div class="barra"></div>
     <div class="content">
     <img id="bnx" alt="">
-    <strong>bnx</strong>
+    <strong>x</strong>
     <p>i0ez</p>
     </div>
     <div class="badges">
@@ -154,8 +154,8 @@
         <img src="images/boost1month.svg" width="25" height="25">
         </div>
         <div class="sociais">
-        <a href="https://discord.com/users/1083594771576139796" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-        <a href="https://instagram.com/isinhacoelhinhosfofoss" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+        <a href="https://discord.com/users/" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
+        <a href="https://instagram.com/" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
         </div>
         </div>
     <div class="perfil">
