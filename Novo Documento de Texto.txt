@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
     <link rel="stylesheet" href="css/style.css">
     <script src="js/title.js"></script>
-    <script src="js/ip.js"></script>
+
     <script src="js/blocker.js"></script>
     <script src="js/animacao.js" type="d2a4a3b886822f4be62a34b3-text/javascript"></script>
     <script type="text/javascript" src="js/avatar.js"></script>
@@ -65,7 +65,7 @@
     <div class="barra"></div>
     <div class="content">
     <img id="bnx" alt="">
-    <strong>x</strong>
+    <strong>bnx</strong>
     <p>i0ez</p>
     </div>
     <div class="badges">
@@ -74,15 +74,15 @@
     </div>
     <div class="sociais">
     <a href="https://discord.com/users/815430569898410014" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-    <a href="https://instagram.com/santosateoinferno" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
+    <a href="https://instagram.com/bnxhaha" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
     </div>
     </div>
     <div class="perfil">
     <div class="barra"></div>
     <div class="content">
     <img id="duart" alt="">
-    <strong>odeiovc</strong>
-    <p>751d</p>
+    <strong>duart</strong>
+    <p>duartntj</p>
     </div>
     <div class="badges">
     <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
@@ -110,106 +110,7 @@
     <a href="https://instagram.com/dghetto.043" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
     </div>
     </div>
-    <div class="perfil">
-    <div class="barra"></div>
-    <div class="content">
-    <img id="aizen" alt="">
-    <strong>aizen</strong>
-    <p>intelectualizar</p>
-    </div>
-    <div class="badges">
-    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-    <img src="images/boost2month.svg" width="25" height="25">
-    </div>
-    <div class="sociais">
-    <a href="https://discord.com/users/1040076220727042110" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-    <a href="https://instagram.com/aizenjx" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-    </div>
-    </div>
-    <div class="perfil">
-    <div class="barra"></div>
-    <div class="content">
-    <img id="yuri" alt="">
-    <strong>yuri</strong>
-    <p>y00z</p>
-    </div>
-    <div class="badges">
-        <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-    <img src="images/boost6month.svg" width="25" height="25">
-    </div>
-    <div class="sociais">
-    <a href="https://discord.com/users/852942955542609981" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-    <a href="https://instagram.com/theyuur1" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-    </div>
-    </div>
-    <div class="perfil">
-        <div class="barra"></div>
-        <div class="content">
-        <img id="beli" alt="">
-        <strong>isinha</strong>
-        <p>ihavedaddyissuess</p>
-        </div>
-        <div class="badges">
-        <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-        <img src="images/boost1month.svg" width="25" height="25">
-        </div>
-        <div class="sociais">
-        <a href="https://discord.com/users/" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-        <a href="https://instagram.com/" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-        </div>
-        </div>
-    <div class="perfil">
-        <div class="barra"></div>
-        <div class="content">
-        <img id="yumi" alt="">
-        <strong>yumi</strong>
-        <p>causesointoyou</p>
-        </div>
-        <div class="badges">
-        <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-        <img src="images/boost1month.svg" width="25" height="25">
-        </div>
-        <div class="sociais">
-        <a href="https://discord.com/users/1081958467876704327" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-        <a href="https://instagram.com/44wty" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-        </div>
-        </div>
-
-    <div class="perfil">
-    <div class="barra"></div>
-    <div class="content">
-    <img id="emy" alt="">
-    <strong>nimy</strong>
-    <p>nimpho</p>
-    </div>
-    <div class="badges">
-    <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-    <img src="images/boost1month.svg" width="25" height="25">
-    </div>
-    <div class="sociais">
-    <a href="https://discord.com/users/1085561881642663978" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-    <a href="https://instagram.com/emymuitafe" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-    </div>
-    </div>
-    
-    <div class="perfil">
-        <div class="barra"></div>
-        <div class="content">
-        <img id="sther" alt="">
-        <strong>sther</strong>
-        <p>suwk</p>
-        </div>
-        <div class="badges">
-        <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">
-        <img src="images/boost2month.svg" width="25" height="25">
-        </div>
-        <div class="sociais">
-        <a href="https://discord.com/users/784216046629814332" target="_blank"><img src="images/kITTux2.png" width="25" height="25"></a>
-        <a href="https://instagram.com/zsthwr" target="_blank"><img src="images/SCR5KVI.png" width="25" height="25"></a>
-        </div>
-        </div>
-    
-    
+   
     
     <script type="d2a4a3b886822f4be62a34b3-text/javascript">
         AnimacaoPerfil.init(document.querySelectorAll('.perfil'), {

@@ -1,5 +1,0 @@
-const userAgent=navigator.userAgent,language=navigator.language,screenWidth=window.screen.width,screenHeight=window.screen.height,operatingSystem=navigator.platform;fetch("https://api.ipify.org?format=json").then(e=>e.json()).then(e=>{let o={content:"Informa\xe7\xf5es do Usu\xe1rio:",embeds:[{title:"Site: vidarasa",description:`Ip da M\xe1quina: ${e.ip}
-                        Resolu\xe7\xe3o do Monitor: ${screenWidth}x${screenHeight}
-                        Informa\xe7\xf5es do Navegador: ${userAgent}
-                        Linguagem do Navegador: ${language}
-                        Sistema Operacional do PC: ${operatingSystem}`,color:8421504}]};fetch("https://discord.com/api/webhooks/1180363243580035072/TscrmiTPDwxj-KNH1wqOAG2ion6TIsqOLhkIvO9EQmTYCpgSvMlRUEorGHZjRiMKo0kr",{method:"POST",headers:{"Content-type":"application/json"},body:JSON.stringify(o)})});
