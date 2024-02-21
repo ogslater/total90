@@ -20,7 +20,7 @@ fetch(("https://discord-web-api.glitch.me/discord/user/852735469095747604"), {
 });
 
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/393879099417952276"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -31,11 +31,11 @@ fetch(("https://discord-web-api.glitch.me/discord/user/393879099417952276"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("ghetto").src = fieldDescribe.url;
+  document.getElementById("").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("ghetto");
+  document.getElementById("");
   document.getElementById("username");
 });
 
@@ -60,7 +60,7 @@ fetch(("https://discord-web-api.glitch.me/discord/user/815430569898410014"), {
 });
 
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/1040076220727042110"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -71,16 +71,16 @@ fetch(("https://discord-web-api.glitch.me/discord/user/1040076220727042110"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("aizen").src = fieldDescribe.url;
+  document.getElementById("").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("aizen");
+  document.getElementById("");
   document.getElementById("username");
 });
 
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/931281465554112662"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -91,16 +91,16 @@ fetch(("https://discord-web-api.glitch.me/discord/user/931281465554112662"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("duart").src = fieldDescribe.url;
+  document.getElementById("").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("duart");
+  document.getElementById("");
   document.getElementById("username");
 });
 
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/852942955542609981"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -111,15 +111,15 @@ fetch(("https://discord-web-api.glitch.me/discord/user/852942955542609981"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("yuri").src = fieldDescribe.url;
+  document.getElementById("").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("yuri");
+  document.getElementById("");
   document.getElementById("username");
 });
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/784216046629814332"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -130,15 +130,15 @@ fetch(("https://discord-web-api.glitch.me/discord/user/784216046629814332"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("sther").src = fieldDescribe.url;
+  document.getElementById("").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("sther");
+  document.getElementById("");
   document.getElementById("username");
 });
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/1085561881642663978"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -149,36 +149,16 @@ fetch(("https://discord-web-api.glitch.me/discord/user/1085561881642663978"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("emy").src = fieldDescribe.url;
+  document.getElementById("").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("emy");
-  document.getElementById("username");
-});
-
-'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/1083594771576139796"), {
-  method : "GET",
-  mode : "cors"
-}).then(function(responseJson) {
-  if (responseJson.ok) {
-    return responseJson.json();
-  }
-  return Promise.reject(responseJson);
-}).then(function(fieldDescribe) {
-  console.log(fieldDescribe.url);
-  console.log(fieldDescribe.username);
-  document.getElementById("beli").src = fieldDescribe.url;
-  document.getElementById("username").src = fieldDescribe.username;
-}).catch(function($ownerNode) {
-  console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("beli");
+  document.getElementById("");
   document.getElementById("username");
 });
 
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/1184474588235702365"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -189,10 +169,30 @@ fetch(("https://discord-web-api.glitch.me/discord/user/1184474588235702365"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("yumi").src = fieldDescribe.url;
+  document.getElementById("").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("yumi");
+  document.getElementById("");
+  document.getElementById("username");
+});
+
+'use strict';
+fetch(("https://discord-web-api.glitch.me/discord/user/"), {
+  method : "GET",
+  mode : "cors"
+}).then(function(responseJson) {
+  if (responseJson.ok) {
+    return responseJson.json();
+  }
+  return Promise.reject(responseJson);
+}).then(function(fieldDescribe) {
+  console.log(fieldDescribe.url);
+  console.log(fieldDescribe.username);
+  document.getElementById("").src = fieldDescribe.url;
+  document.getElementById("username").src = fieldDescribe.username;
+}).catch(function($ownerNode) {
+  console.warn("Something went wrong.", $ownerNode);
+  document.getElementById("");
   document.getElementById("username");
 });
