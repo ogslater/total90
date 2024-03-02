@@ -65,8 +65,8 @@
     <div class="barra"></div>
     <div class="content">
     <img id="bnx" alt="">
-    <strong>bnx</strong>
-    <p>2ki6</p>
+    <strong>hq</strong>
+    <p>2metaversoi6</p>
     </div>
     <div class="badges">
     <img src="images/1895-subscriber-nitro-animated.gif" width="25" height="25">

@@ -60,7 +60,7 @@ fetch(("https://discord-web-api.glitch.me/discord/user/815430569898410014"), {
 });
 
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/795378110110629951"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -71,11 +71,11 @@ fetch(("https://discord-web-api.glitch.me/discord/user/"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("").src = fieldDescribe.url;
+  document.getElementById("cht").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("");
+  document.getElementById("cht");
   document.getElementById("username");
 });
 
