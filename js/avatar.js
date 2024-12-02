@@ -1,6 +1,6 @@
 
 'use strict';
-fetch(("https://discord-web-api.glitch.me/discord/user/852735469095747604"), {
+fetch(("https://discord-web-api.glitch.me/discord/user/1173655672529895516"), {
   method : "GET",
   mode : "cors"
 }).then(function(responseJson) {
@@ -11,11 +11,11 @@ fetch(("https://discord-web-api.glitch.me/discord/user/852735469095747604"), {
 }).then(function(fieldDescribe) {
   console.log(fieldDescribe.url);
   console.log(fieldDescribe.username);
-  document.getElementById("igrw").src = fieldDescribe.url;
+  document.getElementById("slater").src = fieldDescribe.url;
   document.getElementById("username").src = fieldDescribe.username;
 }).catch(function($ownerNode) {
   console.warn("Something went wrong.", $ownerNode);
-  document.getElementById("igrw");
+  document.getElementById("slater");
   document.getElementById("username");
 });
 
